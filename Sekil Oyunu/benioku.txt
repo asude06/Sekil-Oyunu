@@ -1,0 +1,5 @@
+İki tane sekil_kayitlari dosyası oluşuyor. İlki rastgele oluştur dedikten sonra çıkış yaparken kaydedilenler,
+sonrasında dosyadan oku diyerek başladığımda burdaki veriler alınıyor ama ordan da çıkış yaparken 
+bin klasöründe de ordaki sekillerin verileri sekil_kayitlari olarak kaydediliyor.
+Yani aslında olması gerektiği gibi çalışıyor ama 2 tane aynı dosyadan oluşmasını önleyemedim hocam. 
+Ben de çalıştığı için dokunmadım.

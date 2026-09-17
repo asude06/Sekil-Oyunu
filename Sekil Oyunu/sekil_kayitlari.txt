@@ -1,0 +1,100 @@
+---YENI_DUGUM---
+Yildiz 25 6 84 @ 5
+Yildiz 7 4 26 O 7
+Dikdortgen 51 21 24 O 11 2
+Dikdortgen 22 11 17 O 12 6
+---YENI_DUGUM---
+Ucgen 55 7 63 X 10
+Yildiz 46 7 57 & 9
+Yildiz 12 16 92 @ 9
+Yildiz 39 17 89 @ 5
+Dikdortgen 9 17 62 $ 11 6
+---YENI_DUGUM---
+Ucgen 10 7 97 @ 4
+Yildiz 51 6 95 + 11
+Yildiz 76 1 12 # 3
+---YENI_DUGUM---
+Yildiz 66 3 8 @ 7
+Ucgen 59 14 96 @ 9
+---YENI_DUGUM---
+Ucgen 63 1 93 O 9
+Dikdortgen 48 19 85 # 8 2
+Dikdortgen 44 0 36 X 4 6
+Dikdortgen 0 4 57 O 11 4
+Ucgen 70 0 90 O 9
+---YENI_DUGUM---
+Dikdortgen 62 12 74 @ 3 2
+Dikdortgen 9 4 68 + 4 3
+Ucgen 47 12 67 + 9
+Yildiz 10 12 42 & 9
+Ucgen 5 14 6 $ 6
+Dikdortgen 18 16 6 + 10 3
+Dikdortgen 1 20 16 + 5 2
+---YENI_DUGUM---
+Dikdortgen 74 10 80 @ 5 5
+Ucgen 33 1 29 + 9
+Dikdortgen 47 18 18 X 10 5
+Dikdortgen 31 6 17 X 8 6
+Dikdortgen 38 6 59 + 7 4
+Ucgen 60 11 93 @ 10
+---YENI_DUGUM---
+Ucgen 45 7 13 + 10
+Ucgen 19 0 15 $ 7
+---YENI_DUGUM---
+Ucgen 2 11 30 & 8
+Yildiz 72 13 28 % 7
+---YENI_DUGUM---
+Ucgen 42 6 52 + 6
+Ucgen 27 10 25 X 4
+---YENI_DUGUM---
+Dikdortgen 22 4 24 @ 6 2
+Ucgen 20 13 61 & 5
+Dikdortgen 19 18 18 # 7 2
+Dikdortgen 20 6 52 @ 7 2
+Dikdortgen 15 0 67 * 5 5
+---YENI_DUGUM---
+Yildiz 24 19 10 & 3
+Yildiz 31 15 11 $ 7
+Yildiz 22 18 40 + 9
+Ucgen 37 1 52 % 9
+Dikdortgen 19 18 37 * 3 4
+Yildiz 7 18 96 * 7
+---YENI_DUGUM---
+Yildiz 39 9 97 * 9
+Yildiz 6 10 27 & 11
+Yildiz 19 16 42 + 3
+Dikdortgen 67 19 6 + 8 4
+---YENI_DUGUM---
+Yildiz 22 4 24 & 9
+Dikdortgen 4 16 49 & 4 6
+Ucgen 19 1 53 + 5
+Yildiz 17 20 25 $ 7
+---YENI_DUGUM---
+Yildiz 8 15 2 @ 5
+Ucgen 42 2 35 + 9
+Ucgen 11 0 82 % 6
+Ucgen 62 5 38 + 9
+Ucgen 4 0 50 & 8
+Ucgen 38 1 17 # 8
+Ucgen 6 16 0 # 4
+---YENI_DUGUM---
+Yildiz 19 19 36 + 7
+Dikdortgen 24 7 99 + 5 6
+---YENI_DUGUM---
+Yildiz 5 17 88 % 9
+Dikdortgen 5 9 36 O 6 5
+Ucgen 32 12 76 * 8
+Ucgen 38 14 68 + 10
+Dikdortgen 65 12 49 O 5 4
+Yildiz 50 17 65 + 9
+---YENI_DUGUM---
+Ucgen 41 4 11 $ 6
+Ucgen 17 16 77 @ 6
+---YENI_DUGUM---
+Dikdortgen 46 18 83 # 3 3
+Yildiz 68 17 17 % 7
+Yildiz 61 19 69 X 9
+Yildiz 66 10 61 & 9
+Dikdortgen 11 17 84 * 10 6
+Ucgen 62 16 69 * 3
+Ucgen 11 16 91 O 6
